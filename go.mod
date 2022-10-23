@@ -1,4 +1,4 @@
-module github.com/blockpane/pvtop
+module github.com/VV-Corey/pvtop
 
 go 1.19
 
