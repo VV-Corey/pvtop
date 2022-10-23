@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/blockpane/pvtop/prevotes"
+	"github.com/VV-Corey/pvtop/prevotes"
 	"log"
 	"os"
 	"time"
